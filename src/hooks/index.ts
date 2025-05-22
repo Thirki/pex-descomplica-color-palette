@@ -1,0 +1,1 @@
+export { useGetPalette } from "./useGetPalette";
